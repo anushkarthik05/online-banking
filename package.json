@@ -1,0 +1,28 @@
+{
+  "name": "online-banking",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/forms": "^0.5.0",
+    "aos": "^2.3.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-flatpickr": "^3.10.9",
+    "react-router-dom": "^6.2.2",
+    "react-transition-group": "^4.4.2",
+    "sticky-js": "^1.3.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^1.0.7",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "sass": "^1.49.9",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.8.0"
+  }
+}
