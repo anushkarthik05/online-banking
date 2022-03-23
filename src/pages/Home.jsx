@@ -22,7 +22,6 @@ function Home() {
         <HeroHome />
         <FeaturesHome />
         <FeaturesBlocks />
-        <Testimonials />
         <Newsletter />
 
       </main>
